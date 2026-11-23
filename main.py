@@ -4,8 +4,9 @@ import os
 
 TEXT = (
     "You have passed the same stranger on the stairs three times this week. "
-    "Today he smiled \u2014 not at you, but at the empty space just behind "
-    "your shoulder, as if someone were standing there."
+    "Today he smiled \u2014 not at you, but at the space just behind "
+    "your shoulder. When you turned around, the stairwell was empty. "
+    "He was still smiling."
 )
 
 
